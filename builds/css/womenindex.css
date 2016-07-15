@@ -25,7 +25,7 @@ a {
 }
 
 body { 
-  background: url(../../assets/img/banner2.jpg) no-repeat center center fixed; 
+  background: url(../../assets/img/women1.jpg) no-repeat center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -430,7 +430,7 @@ body {
 }
 
 .main-body .col-md-12 p {
-	font-size: 12px;
+	font-size: 14px;
 	text-align: justify;
 	margin: 0 60px;
 	line-height: 25px;
@@ -518,19 +518,19 @@ footer p:last-of-type {
 
 }
 
-#myModal1 .modal-container, #myModal2 .modal-container, #myModal3 .modal-container, #myModal4 .modal-container, #myModal5 .modal-container, #myModal6 .modal-container {
+#myModal1 .modal-container, #myModal2 .modal-container, #myModal3 .modal-container, #myModal4 .modal-container, #myModal5 .modal-container, #myModal6 .modal-container, #myModal7 .modal-container {
 	display: inline-block;
 	text-align: center;
 }
 
-#myModal1 h1, #myModal2 h1, #myModal3 h1, #myModal4 h1, #myModal5 h1, #myModal6 h1 {
+#myModal1 h1, #myModal2 h1, #myModal3 h1, #myModal4 h1, #myModal5 h1, #myModal6 h1, #myModal7 h1 {
 	text-align: center;
 	margin: 20px 20px;
 	font-family: Montserrat-Regular;
 }
 
 
-#myModal1 h5, #myModal2 h5, #myModal3 h5, #myModal4 h5, #myModal5 h5, #myModal6 h5 {
+#myModal1 h5, #myModal2 h5, #myModal3 h5, #myModal4 h5, #myModal5 h5, #myModal6 h5, #myModal7 h5 {
 	text-align: center;
 	font-family: Montserrat-Regular;
 	background-color: #ffcc00;
@@ -539,7 +539,7 @@ footer p:last-of-type {
 	color: #fff;
 }
 
-#myModal1 p, #myModal2 p, #myModal3 p, #myModal4 p, #myModal5 p, #myModal6 p {
+#myModal1 p, #myModal2 p, #myModal3 p, #myModal4 p, #myModal5 p, #myModal6 p, #myModal7 p {
 	margin: 30px 45px;
 	font-family: 'Droid Serif', serif;
 	text-align: justify;
